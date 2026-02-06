@@ -12,8 +12,8 @@ I'm a Computer Science student focused on building strong programming fundamenta
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,git,github,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,git,github,mysql,linux&perline=5" />
 </p>
 
 ---
