@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm Pratik Vats
 
-<!--
-**Pratik-vats/Pratik-vats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student focused on building strong programming fundamentals and practical development skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,git,github,mysql" />
+</p>
+
+---
+
+Thanks for visiting my profile!
