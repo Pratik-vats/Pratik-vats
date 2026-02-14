@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7CFC00&center=true&vCenter=true&width=700&lines=Computer+Science+Student;DSA+Enthusiast;Web+Development+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7CFC00&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Development+Learner" />
 </p>
 
 I'm a Computer Science student focused on building strong programming fundamentals and practical development skills.
