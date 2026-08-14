@@ -88,7 +88,7 @@
 * 🧩 Modular, reusable React components with real-time compression statistics
 * 🗄️ MongoDB-backed metadata storage tracking history across **50+ files**
 
-🔗 [View Repo](https://github.com/Pratik-vats) <!-- swap in the direct repo link -->
+🔗 [View GitHub](https://github.com/Pratik-vats/DAA_4_2025_26/tree/main/daa_project)
 
 ---
 
@@ -120,24 +120,9 @@
 
 * 🎓 Course management, exam creation, and enrolment via REST APIs
 * 📊 Automated score tracking and progress monitoring
-* 👥 Secure, role-specific dashboards for Students, Teachers, and Admins
+* 👥 Secure, role-specific dashboards supporting **100+ concurrent users**
 
-🔗 [View Repo](https://github.com/Pratik-vats) <!-- swap in the direct repo link -->
-
----
-
-### 📲 AttendIQ *(In Progress)*
-
-> QR-based attendance system built for fast, contactless check-ins.
-
-**Tech Stack:** `React (Vite)` `Spring Boot (planned)`
-
-**✨ Highlights**
-
-* 📷 QR-based check-in flow built in React with Vite, no external UI libraries
-* 🏗️ Architected around a centralized API service layer ahead of a planned Spring Boot backend integration
-
-🔗 [View Repo](https://github.com/Pratik-vats) <!-- swap in the direct repo link -->
+🔗 [View GitHub](https://github.com/Pratik-vats/Online-Course-and-Exam-Platform)
 
 ---
 
